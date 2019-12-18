@@ -1,7 +1,8 @@
 # agate
 A groundwater flow data assimilation benchmark
 
-This repository contains the data files associated to the two synthetic cases (A and B) described in the paper.
+This repository contains the data files associated to the two synthetic cases (A and B) described in the submitted manuscript "Multi-resolution approach to condition categorical multiple-point realizations to dynamic data with iterative ensemble smoothing".
+
 There are:
 - the categorical training image (TI) and the reference simulated by MPS for each case in the GSLIB file format;
 - the synthetic head data [m] for each case. Each column corresponds to the time series at one observation location in the order of the
