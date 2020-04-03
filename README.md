@@ -11,4 +11,4 @@ location numbering shown in Figure 8;
 defined from the bottom to the top of the western boundary;
 - the posterior distribution calculated by the Monte Carlo rejection sampling method. Each column corresponds to one sample from the prior 
 distribution of unconditional categorical realizations which has been accepted. Note that each column of values is ordered according to 
-the values in a GSLIB file for a grid of dimensions 500 x 50 nodes with the origin in the low left corner.
+the values in a GSLIB file for a grid of dimensions 50 x 500 nodes with the origin in the low left corner.
